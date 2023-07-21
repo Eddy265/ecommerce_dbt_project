@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: ecommerce
+    description: a clone of the ecommerce database.
+    database: ecommerce
+    schema: public
+    tables:
+      - name: accounts
+        description: raw data for the customers accounts     
+
+      - name: orders
+        description: raw data for the orders table
+
+      - name: region
+        description: raw data for the regions
+        
+      - name: sales_reps
+        description: raw data for the sales representatives table
+
+      - name: web_events
+        description: raw data for the web_events table
+   
