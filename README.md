@@ -1,2 +1,2 @@
 # ecommerce_dbt_project
-data transformation on the ecommerce snowflake db using dbt
+A WIP data processing on the ecommerce db using dbt
