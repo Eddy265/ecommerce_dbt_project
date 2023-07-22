@@ -1,4 +1,6 @@
 
+{{ config(materialized='table') }}
+
 WITH orders as (
 select
     *

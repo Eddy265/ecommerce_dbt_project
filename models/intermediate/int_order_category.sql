@@ -1,7 +1,4 @@
--- Assuming "total_amt_usd" column in the "orders" table represents the order total
--- Create a new column "order_category" in the "orders" table based on the order total
-
-{{ config(materialized='view') }}
+-- Create a new column "order_category" in the "orders" table based on the order total.
 
 WITH category AS (
 SELECT
