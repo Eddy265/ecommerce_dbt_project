@@ -18,5 +18,4 @@ The project showcases the implementation of each data processing task using SQL 
 Business Insights:
 By executing the dbt models, we can generate data lineage documentation and validate the data processing pipeline against the latest changes to the source data. The insights derived from this project enable data-driven decision-making, such as identifying top-performing sales representatives, customer segments, and regional sales trends.
 
-Conclusion:
 By leveraging dbt for data processing and analysis, this project demonstrates how to turn raw data into actionable insights, enabling businesses to optimize sales strategies, understand customer behavior, and make informed decisions based on accurate and well-structured data.
