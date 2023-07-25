@@ -1,5 +1,5 @@
 
-{{ config(materialized='table') }}
+--{{ config(materialized='table') }}
 
 WITH order_category AS (
     SELECT
